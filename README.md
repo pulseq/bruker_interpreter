@@ -1,7 +1,7 @@
 # Pulseq to Bruker PPG converter
 
 The code in this repository converts Pulseq .seq files (version 1.0.0) to Bruker .ppg files. 
-Note that this is may not work for you without modifications.
+Note that this may not work for you without modifications.
 
 Due to the lack of manpower and time, we decided release this code to the community in the hope that others will continue the development.
 Please consider issuing a pull request if you modify the code in a way which may be useful to others.
